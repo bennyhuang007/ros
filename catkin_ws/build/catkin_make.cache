@@ -1,0 +1,2 @@
+terminal:terminal_testing
+-DCATKIN_DEVEL_PREFIX=/home/crazypi/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/crazypi/catkin_ws/install -G Unix Makefiles

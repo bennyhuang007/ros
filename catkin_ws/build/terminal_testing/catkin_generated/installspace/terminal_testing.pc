@@ -1,0 +1,8 @@
+prefix=/home/crazypi/catkin_ws/install
+
+Name: terminal_testing
+Description: Description of terminal_testing
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/crazypi/catkin_ws/install/lib 
+Requires: 

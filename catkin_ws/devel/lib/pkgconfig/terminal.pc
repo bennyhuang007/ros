@@ -1,0 +1,8 @@
+prefix=/home/crazypi/catkin_ws/devel
+
+Name: terminal
+Description: Description of terminal
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/crazypi/catkin_ws/devel/lib 
+Requires: 
